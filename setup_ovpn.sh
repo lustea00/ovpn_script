@@ -1,3 +1,3 @@
 wget https://git.io/vpn -O openvpn-install.sh
-spawn sudo chmod +x openvpn-install.sh
-spawn sudo bash openvpn-install.sh
+chmod +x openvpn-install.sh
+bash openvpn-install.sh
